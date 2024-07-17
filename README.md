@@ -9,7 +9,7 @@ A simple resource pack that creates unique subtitles for every sound event in Mi
 
 <div align="center">
 
-![Armor](screenshots/preview1.png)
+![Armor](screenshots/preview-with.png)
 
 </div>
 
