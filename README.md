@@ -1,5 +1,5 @@
 # Verbose Subtitles Resource Pack
-![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.1-blue?style=flat-square)
+![Minecraft Version](https://img.shields.io/badge/Minecraft%20Version-1.21-blue?style=flat-square)
 [![License](https://img.shields.io/github/license/FlamedDogo99/VerboseSubtitles?style=flat-square)](https://github.com/FlamedDogo99/VerboseSubtitles/blob/main/LICENSE)
 
 ## About
